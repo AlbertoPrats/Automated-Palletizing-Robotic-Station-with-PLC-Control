@@ -10,9 +10,9 @@
     - SOP730: Defective part rejection conveyor equipped with clamping systems.
     - SOP740: ABB Robot handling zone.
     - SOP750: Safety enclosure, access gate, main electrical/pneumatic cabinet, and primary PLC control area.
-  * Conveyor System & Data Exchange:Explains single and bi-directional contactor controls and inductive sensor placements.  Defines production data structures tracked per part (Product Number [16-bit], ID Number [32-bit], and Status [16-bit word]).  Outlines the standard handshaking binary interlock protocol (ReadyToSend, ReadyToReceive, Sending, ProductReceived) for transferring parts safely across conveyors.
-  * SOP713 Workflow: Describes part positioning, double-acting pneumatic clamping sequence, status updating, and transfer/pick conditions for accepted or rejected cylinder heads.
-  * SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
-  * SOP730 Reject Station: Details the clamping logic and sequencing for holding pallet targets stationary during part loading.
-  * SOP740 Pick & Place Robot: Maps out the exact motion and handshaking steps.
-  * SOP750 Safety & Cabinet Details: Specifies safety interlocks, safety mat monitoring inside the perimeter gate, main electrical distribution, pneumatic manifolds, circuit protection, and system-wide PLC alarm routines.  
+  - Conveyor System & Data Exchange:Explains single and bi-directional contactor controls and inductive sensor placements.  Defines production data structures tracked per part (Product Number [16-bit], ID Number [32-bit], and Status [16-bit word]).  Outlines the standard handshaking binary interlock protocol (ReadyToSend, ReadyToReceive, Sending, ProductReceived) for transferring parts safely across conveyors.
+  - SOP713 Workflow: Describes part positioning, double-acting pneumatic clamping sequence, status updating, and transfer/pick conditions for accepted or rejected cylinder heads.
+  - SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
+  - SOP730 Reject Station: Details the clamping logic and sequencing for holding pallet targets stationary during part loading.
+  - SOP740 Pick & Place Robot: Maps out the exact motion and handshaking steps.
+  - SOP750 Safety & Cabinet Details: Specifies safety interlocks, safety mat monitoring inside the perimeter gate, main electrical distribution, pneumatic manifolds, circuit protection, and system-wide PLC alarm routines.  
