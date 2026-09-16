@@ -18,25 +18,25 @@
         <img src="../images/SOP713flow.png" alt="SOP 713 workflow" width="600">
       </p>
       </details>
-  - SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
+- SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
     <details>
     <summary><b>Click here to expand the Flow chart for SOP720</b></summary>
     <p align="center">
       <img src="../images/SOP720flow.png" alt="SOP 720 workflow" width="600">
     </p>
     </details>
-  - SOP730 Reject Station: Details the clamping logic and sequencing for holding pallet targets stationary during part loading.
+- SOP730 Reject Station: Details the clamping logic and sequencing for holding pallet targets stationary during part loading.
     <details>
     <summary><b>Click here to expand the Flow chart for SOP730</b></summary>
     <p align="center">
       <img src="../images/SOP730flow.png" alt="SOP730 workflow" width="600">
     </p>
     </details>
-  - SOP740 Pick & Place Robot: Maps out the exact motion and handshaking steps.
+- SOP740 Pick & Place Robot: Maps out the exact motion and handshaking steps.
     <details>
     <summary><b>Click here to expand the Flow chart for SOP740</b></summary>
     <p align="center">
       <img src="../images/SOP740flow.png" alt="SOP 740 workflow" width="600">
     </p>
     </details>
-  - SOP750 Safety & Cabinet Details: Specifies safety interlocks, safety mat monitoring inside the perimeter gate, main electrical distribution, pneumatic manifolds, circuit protection, and system-wide PLC alarm routines.  
+- SOP750 Safety & Cabinet Details: Specifies safety interlocks, safety mat monitoring inside the perimeter gate, main electrical distribution, pneumatic manifolds, circuit protection, and system-wide PLC alarm routines.  
