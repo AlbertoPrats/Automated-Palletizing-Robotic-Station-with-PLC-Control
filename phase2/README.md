@@ -11,32 +11,32 @@
     - SOP740: ABB Robot handling zone.
     - SOP750: Safety enclosure, access gate, main electrical/pneumatic cabinet, and primary PLC control area.
 - Conveyor System & Data Exchange:Explains single and bi-directional contactor controls and inductive sensor placements. Defines production data structures tracked per part (Product Number [16-bit], ID Number [32-bit], and Status [16-bit word]). Outlines the standard handshaking binary interlock protocol (ReadyToSend, ReadyToReceive, Sending, ProductReceived) for transferring parts safely across conveyors.
-  - SOP713 Workflow: Describes part positioning, double-acting pneumatic clamping sequence, status updating, and transfer/pick conditions for accepted or rejected cylinder heads.
-<details>
-<summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
-<p align="center">
-  <img src="../images/SOP713flow.png" alt="SOP 713 workflow" width="600">
-</p>
-</details>
+- SOP713 Workflow: Describes part positioning, double-acting pneumatic clamping sequence, status updating, and transfer/pick conditions for accepted or rejected cylinder heads.
+      <details>
+      <summary><b>Click here to expand the Flow chart for SOP713</b></summary>
+      <p align="center">
+        <img src="../images/SOP713flow.png" alt="SOP 713 workflow" width="600">
+      </p>
+      </details>
   - SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
-<details>
-<summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
-<p align="center">
-  <img src="../images/SOP720flow.png" alt="SOP 720 workflow" width="600">
-</p>
-</details>
+    <details>
+    <summary><b>Click here to expand the Flow chart for SOP720</b></summary>
+    <p align="center">
+      <img src="../images/SOP720flow.png" alt="SOP 720 workflow" width="600">
+    </p>
+    </details>
   - SOP730 Reject Station: Details the clamping logic and sequencing for holding pallet targets stationary during part loading.
-<details>
-<summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
-<p align="center">
-  <img src="../images/SOP730flow.png" alt="SOP730 workflow" width="600">
-</p>
-</details>
+    <details>
+    <summary><b>Click here to expand the Flow chart for SOP730</b></summary>
+    <p align="center">
+      <img src="../images/SOP730flow.png" alt="SOP730 workflow" width="600">
+    </p>
+    </details>
   - SOP740 Pick & Place Robot: Maps out the exact motion and handshaking steps.
-<details>
-<summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
-<p align="center">
-  <img src="../images/SOP740flow.png" alt="SOP 740 workflow" width="600">
-</p>
-</details>
+    <details>
+    <summary><b>Click here to expand the Flow chart for SOP740</b></summary>
+    <p align="center">
+      <img src="../images/SOP740flow.png" alt="SOP 740 workflow" width="600">
+    </p>
+    </details>
   - SOP750 Safety & Cabinet Details: Specifies safety interlocks, safety mat monitoring inside the perimeter gate, main electrical distribution, pneumatic manifolds, circuit protection, and system-wide PLC alarm routines.  
