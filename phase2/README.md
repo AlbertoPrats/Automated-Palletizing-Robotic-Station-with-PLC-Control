@@ -5,11 +5,11 @@
   * Revision Control: Tracks document revisions, noting initial creation on 2024-12-06.
   * System Overview: Details the cell arrangement comprising 6 motorized conveyors (running at 15m/min), a rotary pallet dispenser, pneumatic clamps, buffer tracks, 2.5m high safety perimeter fences, safety mats, and double-action light curtains at forklift entry zones.
   * Sub-Operations Breakdown:
-  #^ * SOP710–SOP717: Main production line conveyors 1 to 8 receiving parts from OP60.
-  #^ * SOP720–SOP723: Pallet handling conveyors and buffer stations, including forklift access zones.
-  #^ * SOP730: Defective part rejection conveyor equipped with clamping systems.
-  #^ * SOP740: ABB Robot handling zone.
-  #^ * SOP750: Safety enclosure, access gate, main electrical/pneumatic cabinet, and primary PLC control area.
+    - SOP710–SOP717: Main production line conveyors 1 to 8 receiving parts from OP60.
+    - SOP720–SOP723: Pallet handling conveyors and buffer stations, including forklift access zones.
+    - SOP730: Defective part rejection conveyor equipped with clamping systems.
+    - SOP740: ABB Robot handling zone.
+    - SOP750: Safety enclosure, access gate, main electrical/pneumatic cabinet, and primary PLC control area.
   * Conveyor System & Data Exchange:Explains single and bi-directional contactor controls and inductive sensor placements.  Defines production data structures tracked per part (Product Number [16-bit], ID Number [32-bit], and Status [16-bit word]).  Outlines the standard handshaking binary interlock protocol (ReadyToSend, ReadyToReceive, Sending, ProductReceived) for transferring parts safely across conveyors.
   * SOP713 Workflow: Describes part positioning, double-acting pneumatic clamping sequence, status updating, and transfer/pick conditions for accepted or rejected cylinder heads.
   * SOP720 Forklift Area: Outlines operation of the 90° rotary pallet dispenser, empty-stack detection, pallet separation, and muting sequences for external/internal safety light curtains.
