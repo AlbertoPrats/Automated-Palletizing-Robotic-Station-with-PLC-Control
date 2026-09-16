@@ -43,6 +43,7 @@
 ---
 <details>
 <summary>📦 <b>Click here to expand the final cell layout proposals</b></summary>
+
 <p align="center">
   Final cell layout proposal
   
