@@ -13,11 +13,18 @@
 ---
 ## OP70 Quotation
   
-  This is the formal proposal submitted by InterWilds Robotics in response to Advance Motors' inquiry, outlining their turnkey solution and commercial agreement.
+  This is the formal proposal submitted by the fictitious InterWilds Robotics in response to Advance Motors' inquiry, outlining their turnkey solution and commercial agreement.
   * Changes Applied After Quotation Review: Design updates based on initial reviews (e.g., adding clamping mechanisms, conveyor layout adjustments, light curtains).
   * Project Scope & Specifications: Project boundary, installation location, capacity goals, and system performance metrics.
   * Time Plan: Key project completion dates and milestones.
   * Commercial Terms: Pricing breakdown for components/services, payment schedule, supplementary work rate cards, and warranty conditions.
-  * Description: * Technical Description: Detailed cell physical layout, conveyor flow, clamp systems, and safety light curtains.
-                  * Project Execution: Timeline chart, testing protocols, commitments, compatible products, training, safety functions, and deliverables.
-  * CE-Marking: Scope of CE certification for the supplied cell.  
+  * Technical Description: Detailed cell physical layout, conveyor flow, clamp systems, and safety light curtains.
+  * Project Execution: Timeline chart, testing protocols, commitments, compatible products, training, safety functions, and deliverables.
+  * CE-Marking: Scope of CE certification for the supplied cell.
+---
+<details>
+<summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
+<p align="center">
+  <img src="img/initialdesign.png" alt="Initial cell layout" width="600">
+</p>
+</details>
