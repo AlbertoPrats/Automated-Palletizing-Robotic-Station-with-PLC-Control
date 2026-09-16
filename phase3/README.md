@@ -14,7 +14,7 @@
   - Safety & E-Stop System: Wiring configurations for safety relays, Emergency Stop circuits, light curtains, and safety gate interlocks.
   - Clamp & Motor Connections: Electrical connections for pneumatic valves, double-acting cylinders and conveyor motors.
 
-## OP70_robot_cell
+### OP70_robot_cell
   This file is a packed RobotStudio project containing the 3D cell model, station logic and robot programming.
   - 3D Geometry & Cell Layout: Complete physical layout including the robot, end-effectors, safety fencing, conveyors, and part fixtures.
   - Kinematics & Tooling: Configured robot Tool Center Points (TCP), workobjects, and gripper action mechanisms, with their respective smart components.
