@@ -41,7 +41,7 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 ### 💻 Software Stack
 * **CODESYS v3.5 Control System**: Full PLC simulation including HMI/visual panels.
 * **RobotStudio**: Full robotic cell simulation including safety integrations and I/O modules.
-* **QElectroTech**: Electrical diagrams including PLC and safety integrations.
+* **FluidSIM**: Electrical diagrams including PLC and safety integrations.
 
 ---
 
