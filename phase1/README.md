@@ -24,7 +24,6 @@
 ---
 <details>
 <summary>📦 <b>Click here to expand the representation of the initial cell layout</b></summary>
-![this screenshot](../images/initialdesign.png)
 <p align="center">
   <img src="../images/initialdesign.png" alt="Initial cell layout" width="600">
 </p>
