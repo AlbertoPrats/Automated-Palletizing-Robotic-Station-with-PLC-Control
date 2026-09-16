@@ -45,10 +45,12 @@
 <summary>📦 <b>Click here to expand the final cell layout proposals</b></summary>
 <p align="center">
   Final cell layout proposal
+  
   <img src="../images/finaldesign.png" alt="Final cell layout proposal" width="800">
 </p>
 <p align="center">
   Final cell layout suboperations proposal
+  
   <img src="../images/finaldesignsub.png" alt="Final cell layout suboperations proposal" width="800">
 </p>
 </details>
