@@ -27,6 +27,27 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 <details>
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
+  Full automatic execution:
+![Full auto execution](videos/fullauto.mp4)
+
+  Full manual execution:
+![Full manual execution](videos/fullmanual.mp4)
+
+  Full execution with production data:
+![Full execution with production data](videos/productiondata.mp4)
+
+  Pallet dispenser showcase:
+![Pallet dispenser showcase](videos/dispenser.mp4)
+
+  General safety simulation showcase:
+![Safety showcase](videos/showcase.mp4)
+
+  Pallet conveyor simulated error showcase:
+![Pallet conveyor error](videos/palletconveyorerror.mp4)
+
+  Product conveyor simulated error showcase:
+![Product conveyor error](videos/producconveyorerror.mp4)
+  
 </details>
 ---
 <details>
