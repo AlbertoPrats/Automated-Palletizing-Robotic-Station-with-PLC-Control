@@ -11,7 +11,7 @@
 [![Project Type](https://img.shields.io/badge/Project-Industrial%20Automation-blue.svg)](#)
 [![Robot](https://img.shields.io/badge/Robot-ABB-red.svg)](https://www.abb.com/global/en/)
 [![Unity Version](https://img.shields.io/badge/CODESYS-v3.5-green.svg)](https://us.codesys.com//)
-[![Simulation](https://img.shields.io/badge/Simulation-ABB%20RobotStudio)](https://developer.oculus.com/)
+[![Simulation](https://img.shields.io/badge/Simulation-ABB%20RobotStudio-orange.svg)](#)
 [![Protocol](https://img.shields.io/badge/Protocol-OPC--UA-yellow.svg)](#)
 
 **OP70** is an automated rejection handling and palletizing cell developed for a ficticious Operation 70 (OP70) on Line 4 at Advance Motors AB's ficticious engine plant. The system processes engine cylinder heads, automatically extracting rejected units identified in OP60 and transferring them to Euro pallets without manual intervention. 
