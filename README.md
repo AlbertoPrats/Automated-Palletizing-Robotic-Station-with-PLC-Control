@@ -1,4 +1,4 @@
-# Automatic-Palletizing-Robotic-Station-with-PLC-Control
+# Automated Palletizing Robotic Station with PLC Control
 
 <p align="center">
   <img src="images/OP70.png" alt="Automatic Palletizing Robotic Station" width="800">
