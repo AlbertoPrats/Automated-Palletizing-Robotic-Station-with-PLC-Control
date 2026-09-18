@@ -27,33 +27,41 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 <details>
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
-Full automatic execution:
-![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
+Full automatic execution part 1:
+![Full auto execution 1](videos/fullauto1.gif)
 
-Full automatic execution:
-![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b.mp4)
+Full automatic execution part 2:
+![Full auto execution 2](videos/fullauto2.gif)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b" alt="Initial cell layout" width="600">
-</p>
+Full automatic execution part 3:
+![Full auto execution 3](videos/fullauto3.gif)
 
-  Full manual execution:
-![Full manual execution](videos/fullmanual.mp4)
+  Full manual execution part 1:
+![Full manual execution 1](videos/fullmanual1.gif)
 
-  Full execution with production data:
-![Full execution with production data](videos/productiondata.mp4)
+  Full manual execution part 2:
+![Full manual execution 2](videos/fullmanual2.gif)
+
+  Full manual execution part 3:
+![Full manual execution 3](videos/fullmanual3.gif)
+
+  Full execution with production data part 1:
+![Full execution with production data 1](videos/productiondata1.gif)
+
+  Full execution with production data part 2:
+![Full execution with production data 2](videos/productiondata2.gif)
 
   Pallet dispenser showcase:
-![Pallet dispenser showcase](videos/dispenser.mp4)
+![Pallet dispenser showcase](videos/dispenser.gif)
 
   General safety simulation showcase:
-![Safety showcase](videos/showcase.mp4)
+![Safety showcase](videos/safety.gif)
 
   Pallet conveyor simulated error showcase:
-![Pallet conveyor error](videos/palletconveyorerror.mp4)
+![Pallet conveyor error](videos/palletconveyorerror.gif)
 
   Product conveyor simulated error showcase:
-![Product conveyor error](videos/producconveyorerror.mp4)
+![Product conveyor error](videos/producconveyorerror.gif)
   
 </details>
 ---
