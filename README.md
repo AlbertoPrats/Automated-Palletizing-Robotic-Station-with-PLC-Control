@@ -28,7 +28,7 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
   Full automatic execution:
-![Full auto execution](videos/fullauto.mp4)
+![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
 
   Full manual execution:
 ![Full manual execution](videos/fullmanual.mp4)
