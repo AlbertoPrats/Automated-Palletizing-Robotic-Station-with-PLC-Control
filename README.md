@@ -14,7 +14,7 @@
 [![Simulation](https://img.shields.io/badge/Simulation-ABB%20RobotStudio-orange.svg)](#)
 [![Protocol](https://img.shields.io/badge/Protocol-OPC--UA-yellow.svg)](#)
 
-**OP70** is an automated rejection handling and palletizing cell developed for a ficticious Operation 70 (OP70) on Line 4 at Advance Motors AB's ficticious engine plant. The system processes engine cylinder heads, automatically extracting rejected units identified in OP60 and transferring them to Euro pallets without manual intervention. 
+**OP70** is an automated rejection handling and palletizing cell developed for a fictitious Operation 70 (OP70) on Line 4 at Advance Motors AB's ficticious engine plant. The system processes engine cylinder heads, automatically extracting rejected units identified in OP60 and transferring them to Euro pallets without manual intervention. 
 
 The cell acts as the final operation on Line 4. Accepted parts pass through directly to the next operation, while rejected engine heads are redirected to an automated palletizing zone.
 
@@ -241,7 +241,7 @@ This repository is organized into four distinct development phases tracking the 
   - Complete OP70 PLC Project in CODESYS including full HMI/Visualization Control Panels.
   - RobotStudio OPC-UA Configuration (.csv) mapping node addresses for virtual hardware communication.
 
-### Subsystem Breakdown & Simulation Architecture
+### 🧠 Subsystem Breakdown & Simulation Architecture
 
 Because this project serves as a comprehensive fictitious case study, physical hardware is entirely modeled through digital twin techniques. The cell relies on software-in-the-loop (SIL) co-simulation between CODESYS (acting as the master PLC) and ABB RobotStudio (acting as the robotic workstation and physical cell physics simulator).
 
