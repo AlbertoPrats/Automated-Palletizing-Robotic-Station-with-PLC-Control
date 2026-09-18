@@ -76,7 +76,9 @@ Full automatic execution part 3:
 ![Product conveyor error](videos/producconveyorerror.gif)
   
 </details>
+
 ---
+
 <details>
 <summary>📦 <b>Click here to expand the robotic cell images</b></summary>
 
@@ -105,7 +107,9 @@ Full automatic execution part 3:
 ![safety gate 2-1](images/safetygate2-1.png)
 
 </details>
+
 ---
+
 <details>
 <summary>📦 <b>Click here to expand the PLC panel images</b></summary>
   
@@ -147,6 +151,7 @@ Full automatic execution part 3:
   
 </details>
 </p>
+
 ---
 
 </details>
