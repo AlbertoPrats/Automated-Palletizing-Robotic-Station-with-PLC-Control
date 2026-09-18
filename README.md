@@ -27,17 +27,15 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 <details>
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
-  Full automatic execution:
-![Full auto execution](https://github.com/AlbertoPrats-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
-
-Full automatic execution:
-![Full auto execution](https://github.com/AlbertoPrats-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b/fullauto.mp4)
-
 Full automatic execution:
 ![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
 
 Full automatic execution:
-![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b/fullauto.mp4)
+![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b.mp4)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b" alt="Initial cell layout" width="600">
+</p>
 
   Full manual execution:
 ![Full manual execution](videos/fullmanual.mp4)
