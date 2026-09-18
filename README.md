@@ -128,29 +128,38 @@ Full automatic execution part 3:
   Disgnostic panel:
   
 ![Diagnostic panel](images/diagnosticpanel.png)
+
+---
   
   Production panel:
   
 ![Production panel](images/productionpanel.png)
-  
+ 
+---
+ 
   Manual operation panel 3 (SOP714 to SOP717):
   
 ![Manual operation panel 3](images/manualpanel1.png)
+
+---
   
   Manual operation panel 4 (SOP720):
   
 ![Manual operation panel 4](images/manualpanel2.png)
+
+---
   
   Process panel:
   
 ![Process panel](images/processpanel.png)
-  
+
+---
+
   Overview panel:
   
 ![Overview panel](images/overviewpanel.png)
   
 </details>
-</p>
 
 ---
 
