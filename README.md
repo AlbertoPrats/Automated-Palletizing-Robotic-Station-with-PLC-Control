@@ -1,20 +1,20 @@
 # Automatic-Palletizing-Robotic-Station-with-PLC-Control
 
 <p align="center">
-  <img src="img/Title_img.png" alt="Automatic Palletizing Robotic Station" width="600">
+  <img src="images/OP70.png" alt="Automatic Palletizing Robotic Station" width="800">
 </p>
 
 ---
 
 ## 📊 Project Overview
 
-[![Project Type](https://img.shields.io/badge/Project-Robotic%20Teleoperation-blue.svg)](#)
-[![Robot](https://img.shields.io/badge/Robot-UR3-red.svg)](https://www.universal-robots.com/)
-[![Unity Version](https://img.shields.io/badge/Unity-6000.2.10f1%20(6.2)-green.svg)](https://unity.com/)
-[![Simulation](https://img.shields.io/badge/Simulation-Meta%20XR-orange.svg)](https://developer.oculus.com/)
-[![Protocol](https://img.shields.io/badge/Protocol-XML--RPC%20%2F%20TCP%2FIP-yellow.svg)](#)
+[![Project Type](https://img.shields.io/badge/Project-Industrial%20Automation-blue.svg)](#)
+[![Robot](https://img.shields.io/badge/Robot-ABB-red.svg)](https://www.abb.com/global/en/)
+[![Unity Version](https://img.shields.io/badge/CODESYS-v3.5-green.svg)](https://us.codesys.com//)
+[![Simulation](https://img.shields.io/badge/Simulation-ABB%20RobotStudio)](https://developer.oculus.com/)
+[![Protocol](https://img.shields.io/badge/Protocol-OPC--UA-yellow.svg)](#)
 
-**OP70** is an automated rejection handling and palletizing cell developed for a ficticious Operation 70 (OP70) on Line 4 at Advance Motors AB's ficticious engine plant in Skövde, Sweden. The system processes engine cylinder heads, automatically extracting rejected units identified in OP60 and transferring them to Euro pallets without manual intervention. 
+**OP70** is an automated rejection handling and palletizing cell developed for a ficticious Operation 70 (OP70) on Line 4 at Advance Motors AB's ficticious engine plant. The system processes engine cylinder heads, automatically extracting rejected units identified in OP60 and transferring them to Euro pallets without manual intervention. 
 
 The cell acts as the final operation on Line 4. Accepted parts pass through directly to the next operation, while rejected engine heads are redirected to an automated palletizing zone.
 
@@ -27,7 +27,7 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 ---
 
 <details>
-<summary>📦 <b>Click here to expand the execution videos</b></summary>
+<summary>🎬 <b>Click here to expand the execution videos</b></summary>
 
 ---
 
@@ -106,7 +106,7 @@ Full automatic execution part 3:
 ---
 
 <details>
-<summary>📦 <b>Click here to expand the robotic cell images</b></summary>
+<summary>🖼️ <b>Click here to expand the robotic cell images</b></summary>
 
 ---
 
@@ -149,7 +149,7 @@ Full automatic execution part 3:
 ---
 
 <details>
-<summary>📦 <b>Click here to expand the PLC panel images</b></summary>
+<summary>🖼️ <b>Click here to expand the PLC panel images</b></summary>
 
 ---
   
