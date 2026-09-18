@@ -23,7 +23,7 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 ## 🎬 Visual Demonstration
 <details>
 <summary>📦 <b>Click here to expand the visual demonstration</b></summary>
-
+<p align="center">
 <details>
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
@@ -119,17 +119,8 @@ Full automatic execution part 3:
 ![Overview panel](images/overviewpanel.png)
   
 </details>
+</p>
 ---
-
-  Virtual environment painting:
-![Virtual Painting Demo](img/painting_showcase.gif)
-
-  Physical environment painting: 
-![Physical Painting Demo](img/robot_painting_showcase.gif)
-
-  Physical environment painting 2: 
-![Physical Painting Demo2](img/AR_showcase.gif)
-
 
 </details>
 
