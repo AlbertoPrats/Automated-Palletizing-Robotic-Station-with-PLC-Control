@@ -30,6 +30,15 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
   Full automatic execution:
 ![Full auto execution](https://github.com/AlbertoPrats-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
 
+Full automatic execution:
+![Full auto execution](https://github.com/AlbertoPrats-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b/fullauto.mp4)
+
+Full automatic execution:
+![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b)
+
+Full automatic execution:
+![Full auto execution](https://github.com/user-attachments/assets/f4d489b3-dc67-461d-a083-c345a237f11b/fullauto.mp4)
+
   Full manual execution:
 ![Full manual execution](videos/fullmanual.mp4)
 
