@@ -28,39 +28,51 @@ The cell acts as the final operation on Line 4. Accepted parts pass through dire
 <summary>📦 <b>Click here to expand the execution videos</b></summary>
 
 Full automatic execution part 1:
+
 ![Full auto execution 1](videos/fullauto1.gif)
 
 Full automatic execution part 2:
+
 ![Full auto execution 2](videos/fullauto2.gif)
 
 Full automatic execution part 3:
+
 ![Full auto execution 3](videos/fullauto3.gif)
 
   Full manual execution part 1:
+  
 ![Full manual execution 1](videos/fullmanual1.gif)
 
   Full manual execution part 2:
+  
 ![Full manual execution 2](videos/fullmanual2.gif)
 
   Full manual execution part 3:
+  
 ![Full manual execution 3](videos/fullmanual3.gif)
 
   Full execution with production data part 1:
+  
 ![Full execution with production data 1](videos/productiondata1.gif)
 
   Full execution with production data part 2:
+  
 ![Full execution with production data 2](videos/productiondata2.gif)
 
   Pallet dispenser showcase:
+  
 ![Pallet dispenser showcase](videos/dispenser.gif)
 
   General safety simulation showcase:
+  
 ![Safety showcase](videos/safety.gif)
 
   Pallet conveyor simulated error showcase:
+  
 ![Pallet conveyor error](videos/palletconveyorerror.gif)
 
   Product conveyor simulated error showcase:
+  
 ![Product conveyor error](videos/producconveyorerror.gif)
   
 </details>
@@ -69,21 +81,27 @@ Full automatic execution part 3:
 <summary>📦 <b>Click here to expand the robotic cell images</b></summary>
 
   General cell layout:
+  
 ![General cell layout](images/celllayout.png)
   
   Close-up of the robot operation area:
+  
 ![Robot closeup](images/robotclose.png)
   
   Safety gate 1 with outer light gate muted:
+  
 ![safety gate 1-1](images/safetygate1-1.png)
   
   Safety gate 1 with inner light gate muted:
+  
 ![safety gate 1-2](images/safetygate1-2.png)
 
   Safety gate 2 with outer light gate muted:
+  
 ![safety gate 2-2](images/safetygate2-2.png)
 
   Safety gate 2 with inner light gate muted:
+  
 ![safety gate 2-1](images/safetygate2-1.png)
 
 </details>
@@ -92,30 +110,39 @@ Full automatic execution part 3:
 <summary>📦 <b>Click here to expand the PLC panel images</b></summary>
   
   Operator panel 1:
+  
 ![Operator panel 1](images/operatorpanel1.png)
   
   Operator panel 2:
+  
 ![Operator panel 2](images/operatorpanel2.png)
   
   Operator panel 3:
+  
 ![Operator panel 3](images/operatorpanel3.png)
   
   Disgnostic panel:
+  
 ![Diagnostic panel](images/diagnosticpanel.png)
   
   Production panel:
+  
 ![Production panel](images/productionpanel.png)
   
   Manual operation panel 3 (SOP714 to SOP717):
+  
 ![Manual operation panel 3](images/manualpanel1.png)
   
   Manual operation panel 4 (SOP720):
+  
 ![Manual operation panel 4](images/manualpanel2.png)
   
   Process panel:
+  
 ![Process panel](images/processpanel.png)
   
   Overview panel:
+  
 ![Overview panel](images/overviewpanel.png)
   
 </details>
