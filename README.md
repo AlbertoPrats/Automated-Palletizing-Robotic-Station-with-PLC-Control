@@ -305,7 +305,7 @@ The link between CODESYS and RobotStudio is handled seamlessly via OPC-UA:
 
 ---
 
-🚀 Quick Start & Execution Guide
+## 🚀 Quick Start & Execution Guide
 
 1. Configure RobotStudio Station & OPC-UA Server
    - Open ABB RobotStudio and open or import the OP70_Robot_Program.
